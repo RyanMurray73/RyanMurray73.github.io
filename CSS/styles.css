@@ -12,6 +12,7 @@ nav ul li a {
 }
 main img {
     float: right;
+    padding-top: 100px;
 }
 footer {
     text-align: center;
