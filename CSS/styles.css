@@ -8,11 +8,11 @@ nav ul li {
 nav ul li a {
     display: block;
     padding: .5rem 1rem;
-    background-color: #fffb00;
+    background-color: #ffffff;
 }
 main img {
-    float: right;
-    padding-top: 100px;
+    float: left;
+    padding-top: 50px;
 }
 footer {
     text-align: center;
