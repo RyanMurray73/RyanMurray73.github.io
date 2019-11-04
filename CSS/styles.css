@@ -10,9 +10,6 @@ nav ul li a {
     padding: .5rem 1rem;
     background-color: #333333;
 }
-main h1 {
-    clear: both;
-}
 main img {
     float: right;
 }
