@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////////////////////////
 // Object2VR pro 3.1.8/10781 Object Player                          //
-// Trial License: For evaluation only!                              //
+// EDU License: Utah Valley University                              //
 // (c) 2017, Garden Gnome Software, http://ggnome.com               //
 //////////////////////////////////////////////////////////////////////
 

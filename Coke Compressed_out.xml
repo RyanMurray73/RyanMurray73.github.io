@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vrobject>
-  <input states="1" windowheight="680" width="888" imagepath="images" preview="4" windowwidth="888" height="680" preload="1" columns="24" rows="3" fileextension="jpg"/>
-  <control simulatemass="1" lockedmouse="0" swapxy="0" lockedkeyboard="0" dblclickfullscreen="0" revx="0" invertwheel="0" revy="0" wrapx="1" wrapy="0" trapwheel="1" automovemode="1" lockedwheel="0" speedwheel="1.000" controller="1" sensitivity="10"/>
+  <input states="1" windowheight="768" width="1024" imagepath="images" preview="4" windowwidth="1024" height="768" preload="1" columns="24" rows="3" fileextension="jpg"/>
+  <control simulatemass="1" lockedmouse="0" swapxy="0" lockedkeyboard="0" dblclickfullscreen="0" revx="1" invertwheel="0" revy="1" wrapx="1" wrapy="0" trapwheel="1" automovemode="1" lockedwheel="0" speedwheel="1.000" controller="1" sensitivity="10"/>
   <view>
-    <start row="0" column="0" state="0"/>
+    <start row="2" column="12" state="0"/>
     <zoom default="1" min="1" max="1"/>
     <viewer imagescaling="1" backgroundcolor="0xffffff" background="1"/>
   </view>
